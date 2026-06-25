@@ -6,11 +6,11 @@ This project focuses on analyzing financial performance through Profit & Loss (P
 
 ## Project Objective
 
-1. Create a [Profit and Loss by Fiscal Year Report](link-to-pdf)
+1. Create a [Profit and Loss by Fiscal Year Report](https://github.com/priya-gamanagatti/finance-report-excel/blob/main/Profit%20and%20Loss%20statement%20by%20Fiscal%20year.pdf)
 
-2. Create a [Profit and Loss by Month Report](link-to-pdf)
+2. Create a [Profit and Loss by Month Report](https://github.com/priya-gamanagatti/finance-report-excel/blob/main/Profit%20and%20Loss%20Statement%20by%20months.pdf)
 
-3. Create a [Profit and Loss by Market Report](link-to-pdf)
+3. Create a [Profit and Loss by Market Report](https://github.com/priya-gamanagatti/finance-report-excel/blob/main/Profit%20and%20loss%20for%20market.pdf)
 
 ## Purpose of Financial Analytics
 
